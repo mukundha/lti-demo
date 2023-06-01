@@ -1,3 +1,5 @@
+Initialize the DB with `lti.cql`
+
 To Run the demo
 ```
 npm install cassandra-driver
